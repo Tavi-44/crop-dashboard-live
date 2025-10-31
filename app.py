@@ -190,4 +190,6 @@ def run_app():
 
 # Run the Streamlit application
 if __name__ == "__main__":
+
     run_app()
+    # Force rebuild: Final check for scikit-learn import
